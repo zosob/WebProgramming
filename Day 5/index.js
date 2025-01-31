@@ -48,10 +48,10 @@ do{
 
 /*arrays...*/
 
-let name = ["Earth", "Water", "Fire"];
+let name_array = ["Earth", "Water", "Fire"];
 let array=[]; //[]
-name[0] = "Hello";
-name[2] = " My";
+name_array[0] = "Hello";
+name_array[2] = " My";
 
 array.push("Bhaskar");
 array.unshift("Tyler");

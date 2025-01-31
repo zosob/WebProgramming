@@ -9,3 +9,6 @@ Day 3: CSS!
 Day 4 : Box Models
 
 Day 5: Javascript!
+
+Day 6: JS DOM Object - Code Along
+
