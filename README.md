@@ -19,3 +19,7 @@ Day 7: ES6+ Features like Arrow functions, promises, and async/wait
 Day 8: Javascript Forms
 
 Day 9: JSON
+
+Day 10: Fetch API
+
+Day 11: React
