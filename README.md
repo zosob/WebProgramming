@@ -23,3 +23,7 @@ Day 9: JSON
 Day 10: Fetch API
 
 Day 11: React
+
+Day 12: Mood Tracking app with React
+
+Day 13: React+Vite with TailwindCSS
